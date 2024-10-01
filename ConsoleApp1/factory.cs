@@ -1,7 +1,7 @@
 ﻿namespace Abstract.NetOptimized;
 
 using static System.Console;
-public class Program
+public class factory
 {
     public static void Main()
     {
